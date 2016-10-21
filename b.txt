@@ -1,3 +1,0 @@
-file2
-a new line in branch1
-another new line in branch1
